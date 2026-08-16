@@ -1,6 +1,6 @@
 # iOS 移动安全半年训练营
 
-这个项目不是普通自学笔记，而是按“半年训练营出班”设计的求职准备项目。
+这个项目不是普通自学笔记，而是按“半年训练营出班”设计、由 Evidence 和能力 Gate 驱动的求职准备项目。
 
 目标：帮助用户在 24 周内，从 iOS 开发 + Web 渗透背景，训练成能够投递广州移动安全、应用安全、SDL、隐私安全岗位的候选人，并围绕 25k 月薪、30w+ 年包目标做作品、简历和面试准备。
 
@@ -15,6 +15,19 @@ iOS 开发背景
   + 隐私合规/数据安全
   + SDL 工具化落地
 ```
+
+## 训练系统入口
+
+不要根据目录里已有的 Week 或 Lesson 推断学习进度。每次训练前先阅读：
+
+1. `learning/learner-profile.md`
+2. `learning/teaching-contract.md`
+3. `learning/coach-protocol.md`
+4. `learning/capability-matrix.md`
+5. `learning/progress.md`
+6. `learning/mistakes.md`
+
+实际学习以 60–90 分钟、单一目标的 Session 进行。下一节由“最近 Evidence → 当前能力 → 最近失败 → 当前 Gate → 下一 Objective”决定；只有 Gate 通过才推进总纲。课程、Demo、模板和参考答案是教学资产，不是学习者能力证据。
 
 训练原则：
 
