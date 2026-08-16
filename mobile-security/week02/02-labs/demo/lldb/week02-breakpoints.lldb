@@ -1,0 +1,7 @@
+# Run manually first. Load this file only after you understand each breakpoint.
+settings set target.run-args baseline
+breakpoint set -r 'SensitiveActionCoordinator.*exportReport'
+breakpoint set -r 'ClientPolicyEvaluator.*evaluate'
+breakpoint set -r 'MockExportAPI.*perform'
+breakpoint set -r 'authorizeSecurely|authorizeUsingClientClaims'
+breakpoint list

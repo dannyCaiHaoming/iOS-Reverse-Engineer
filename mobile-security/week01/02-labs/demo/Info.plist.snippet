@@ -1,0 +1,22 @@
+<!-- Add these examples to Info.plist only for the learning demo. -->
+
+<key>CFBundleURLTypes</key>
+<array>
+    <dict>
+        <key>CFBundleURLName</key>
+        <string>com.example.iossecuritylab</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+            <string>securitylab</string>
+        </array>
+    </dict>
+</array>
+
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <false/>
+</dict>
+
+<key>NSCameraUsageDescription</key>
+<string>This demo does not use camera. This text is here only to show where permission descriptions appear.</string>

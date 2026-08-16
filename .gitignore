@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Local Codex project instructions containing personal context
+AGENTS.md
+
+# Swift and Xcode generated files
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
