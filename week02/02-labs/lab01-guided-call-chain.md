@@ -15,7 +15,7 @@
 ## Step 0：基线与环境记录
 
 ```bash
-cd mobile-security/week02/02-labs/demo
+cd week02/02-labs/demo
 swift --version
 swift run BusinessLogicLabChecks
 swift run BusinessLogicLabCLI all

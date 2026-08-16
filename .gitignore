@@ -1,8 +1,8 @@
 # macOS
 .DS_Store
 
-# Local Codex project instructions containing personal context
-AGENTS.md
+# Local instruction backups
+AGENTS_bak.md
 
 # Swift and Xcode generated files
 .build/
